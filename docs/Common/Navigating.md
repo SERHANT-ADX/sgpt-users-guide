@@ -29,7 +29,8 @@ profile, this guide will ensure you can easily access and use each page effectiv
     - 6.1. Listings Subpage
     - 6.2. Generated Images Subpage
     - 6.3. Chats Subpage
-    - 6.4. Saved Presets Subpage
+
+[//]: # (    - 6.4. Saved Presets Subpage)
 
 7. **Header navigation**
 
@@ -121,12 +122,15 @@ chat item will navigate you to the Chat Page, where you can review the entire ch
 
 ![profilePageImagesChats](../../static/common/profilePageImagesChats.jpg)
 
-#### 6.4. Saved Presets Subpage
+[//]: # (#### 6.4. Saved Presets Subpage)
 
-Here, you can access your saved presets for generating images. When you click on the "Apply" icon button of a saved
-preset item, you will be navigated to the Editing Image Page.
+[//]: # ()
+[//]: # (Here, you can access your saved presets for generating images. When you click on the "Apply" icon button of a saved)
 
-![profilePageImagesSavedPresets](../../static/common/profilePageImagesSavedPresets.jpg)
+[//]: # (preset item, you will be navigated to the Editing Image Page.)
+
+[//]: # ()
+[//]: # (![profilePageImagesSavedPresets]&#40;../../static/common/profilePageImagesSavedPresets.jpg&#41;)
 
 
 ### 7. Listing item page

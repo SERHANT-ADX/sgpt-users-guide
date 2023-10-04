@@ -7,22 +7,24 @@ detail.
 
 ## Table of Contents
 
-1. **Listings Section**
+1. **[Listings Section](#1-listings-section)**
     - 1.1. Viewing Chosen Listings
     - 1.2. Adding a New Listing
     - 1.3. Hiding the Listings Section (Mobile)
 
-2. **Create Content Section**
+2. **[Create Content Section](#2-create-content-section)**
     - 2.1. Selecting Content Type
     - 2.2. Inputting Initial Prompt
     - 2.3. Choosing Adjective Style
     - 2.4. Content Generation Options
 
-3. **Generated Responses Section**
+3. **[Generated Responses Section](#3-generated-responses-section)**
     - 3.1. Viewing Generated Content
     - 3.2. Managing Generated Content
 
-4. **Preview section**
+4. **[Preview section](#4-preview-section)**
+
+
 
 ![addListingButton](../../static/createContent/createContentPage.jpg)
 

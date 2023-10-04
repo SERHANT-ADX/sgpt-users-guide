@@ -1,7 +1,7 @@
 {
   "name": "sgpt",
   "version": "0.0.0",
-  "homepage": "https://alex-oleks.github.io/sgpt-docs/",
+  "homepage": "https://alex-oleks.github.io/sgpt-users-guide/",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",

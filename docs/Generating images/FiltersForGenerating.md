@@ -56,9 +56,10 @@ Basic filters are designed for quick enhancements to your images. To set basic f
 
 ![uploadingItems](../../static/editingImages/basicFilter.jpg)
 
-There are two main ways of configuration:
+There are three main ways of configuration:
 - option cards where you choose one option.
 - multi-select field where are many different filters for generating very precise images.
+- slider for choosing how much your image will be changed
 
 Pay attention that `Photo Composition Style` field and `Room Type` are obligatory, so you always need to choose them.
 If you leave them empty, you will see errors and red label.

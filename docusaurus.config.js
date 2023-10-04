@@ -14,12 +14,12 @@ const config = {
   url: 'https://alex-oleks.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/sgpt-docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName:  'alex-oleks', // Usually your GitHub org/user name.
-  projectName: 'sgpt-docs', // Usually your repo name.
+  projectName: 'sgpt-users-guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -60,37 +60,21 @@ const config = {
       image: 'img/s-logo-for-chat.svg',
       navbar: {
         title: 'Serhant GPT guides',
-        logo: {
-          alt: 'SGPT Docs Dino Logo',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: 'SGPT Docs Logo',
+        //   src: 'img/logo.svg',
+        // },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Explore all these guides!',
           },
         ],
       },
       footer: {
         style: 'dark',
-        links: [
-          // {
-          //   title: 'Docs',
-          //   items: [
-          //     {
-          //       label: 'Docs',
-          //       to: '/',
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: 'More',
-          //   items: [
-          //   ],
-          // },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Serhant Inc. Built with Docusaurus.`,
       },
       prism: {

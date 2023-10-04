@@ -1,5 +1,4 @@
-
-### 2.1 Starting a New Chat
+### Starting a New Chat
 
 To start a new chat with the AI assistant:
 
@@ -9,7 +8,7 @@ This action will create a new chat session with the AI assistant, allowing you t
 
 ![createNewChatButton](../../static/chat/createNewChatButton.jpg)
 
-### 2.2 Choosing from Suggestions
+### Choosing from Suggestions
 
 On the initial empty page, you'll find a list of suggestions to help you begin your conversation. Each suggestion is a
 predefined question or topic. To start a new chat based on a suggestion:

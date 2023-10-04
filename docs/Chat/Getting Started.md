@@ -1,5 +1,5 @@
 
-### 1.1 Accessing the Chat Page
+### Accessing the Chat Page
 
 To access the Chat Page with the AI Assistant, follow these steps:
 
@@ -12,7 +12,7 @@ To access the Chat Page with the AI Assistant, follow these steps:
 
 ![navigateFromProfile](../../static/chat/navigateFromProfile.jpg)
 
-### 1.2 Initial Empty Page
+### Initial Empty Page
 
 Upon accessing the Chat Page for the first time, you will be greeted with an empty chat interface. Here, you can see a
 welcoming message and a set of suggestions to help you get started with your conversation.
